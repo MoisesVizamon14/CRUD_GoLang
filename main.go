@@ -6,6 +6,7 @@ import (
 	"net/http"
 	"text/template"
 
+	/*driver para conectar a la base de datos*/
 	_ "github.com/go-sql-driver/mysql"
 )
 
